@@ -1,0 +1,14 @@
+{
+"name": "michael38autumn/juicebox",
+"type": "drupal-module-custom",
+"description": "Stand-alone Juicebox Pro",
+"keywords": ["Drupal", "Juicebox"],
+"license": "proprietary",
+"authors": [
+{
+"name": "mautumn",
+"email": "mainternet@hotmail.com"
+}
+],
+"require": {}
+}
